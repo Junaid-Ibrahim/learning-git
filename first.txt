@@ -5,4 +5,4 @@ this is an extra feature
 so i think this is on both main and feature branch
 
 so no problem when i get rid of stuff in the new branch nor when i add, as long as the original branch was untouched
-i think a minimum of 2 commits are required for representing the merged branch in ascii
+i think a minimum of 3 commits are required for representing the merged branch in ascii
